@@ -1,0 +1,17 @@
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/bin/Debug/net7.0/пионино Сifhg
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/bin/Debug/net7.0/пионино Сifhg.deps.json
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/bin/Debug/net7.0/пионино Сifhg.runtimeconfig.json
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/bin/Debug/net7.0/пионино Сifhg.dll
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/bin/Debug/net7.0/пионино Сifhg.pdb
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/obj/Debug/net7.0/пионино Сifhg.csproj.AssemblyReference.cache
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/obj/Debug/net7.0/пионино Сifhg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/obj/Debug/net7.0/пионино Сifhg.AssemblyInfoInputs.cache
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/obj/Debug/net7.0/пионино Сifhg.AssemblyInfo.cs
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/obj/Debug/net7.0/пионино Сifhg.csproj.CoreCompileInputs.cache
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/obj/Debug/net7.0/пионино Сifhg.dll
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/obj/Debug/net7.0/refint/пионино Сifhg.dll
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/obj/Debug/net7.0/пионино Сifhg.pdb
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/obj/Debug/net7.0/пионино Сifhg.genruntimeconfig.cache
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/obj/Debug/net7.0/ref/пионино Сifhg.dll
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/ekononykhin/Projects/пионино Сifhg/пионино Сifhg/obj/Debug/net7.0/пионино Сifhg.csproj.CopyComplete
